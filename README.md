@@ -8,7 +8,6 @@ An end-to-end machine learning project designed to analyze bank client data and 
 - [Technologies Used](#technologies-used)
 - [Machine Learning Models](#machine-learning-models)
 - [Results & Evaluation](#results--evaluation)
-- [How to Run](#how-to-run)
 
 ## 🔍 Project Overview
 Assessing credit risk is one of the most critical operations in the banking sector. Traditionally, this process involves manual verification, which is time-consuming and prone to human error. 
